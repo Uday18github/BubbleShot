@@ -1051,4 +1051,5 @@ context.stroke();
     
     // Call init to start the game
     init();
+
 };
