@@ -1,6 +1,6 @@
 # 🎮 Bubble Shooter Game
 
-![sample picture](https://github.com/user-attachments/assets/722d6559-1077-4af7-8a45-0032039249ce)
+![sample picture]((https://github.com/Uday18github/BubbleShot/blob/main/Screenshot%202025-08-07%20161138.png))
 
 ## 📌 Overview
 Bubble Shooter is an exciting and interactive arcade game built using **HTML, CSS, and JavaScript**. The goal is to shoot bubbles to form groups of three or more of the same color, making them pop and scoring points.
@@ -43,3 +43,4 @@ For any queries or support, feel free to reach out:
 - 🐙 **GitHub**: [Uday18github](https://github.com/Uday18github)
 
 Enjoy playing Bubble Shooter! 🎯
+
